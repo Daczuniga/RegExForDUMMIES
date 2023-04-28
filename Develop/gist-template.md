@@ -15,10 +15,8 @@ You see that? Thats a regular expression. To a developer, they might be able to 
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
 - [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+
 
 ## Regex Components
 
@@ -46,7 +44,6 @@ Please remember from our "Grouping and Capturing" section, Inside of our subexpr
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 If regex had families, an anchor would be a boundaries sibling, essentially theyre the same thing. There is an article in which I love how the author wrote it out. "Assert that immediately to the left of the current position, we can find the left wall, while to the right of the current position we cannot find the left wall." This is in reference to the ^ and $ anchors. a boundarie is basically putting the regular expression into a glass container, Just for format and reading purposes.
-### Look-ahead and Look-behind
 
 ## Author
 
