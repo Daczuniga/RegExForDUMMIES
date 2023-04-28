@@ -39,14 +39,20 @@ Please remember from our "Grouping and Capturing" section, Inside of our subexpr
 ### Boundaries
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 If regex had families, an anchor would be a boundaries sibling, essentially theyre the same thing. There is an article in which I love how the author wrote it out. "Assert that immediately to the left of the current position, we can find the left wall, while to the right of the current position we cannot find the left wall." This is in reference to the ^ and $ anchors. a boundarie is basically putting the regular expression into a glass container, Just for format and reading purposes.
-### Back-references
-/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
-
 ### Look-ahead and Look-behind
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My names Daniel Cruz, I am a devoted 'learner' and love to outsource all my learning material and compile it all into an organized notes layout, making it easy to read as if I were to sell my notes. Doing that has really helped me grasp many concepts in many areas and is something I recommend to anyone. Apart from having a love for learning, Im a pretty real and considerate person which explains why I went out the way to outsource my information from various different articles and compile it all into one for the readers benefit, considering the reader is a "dummy" to tech. 
+
+Attached below are my contact information:
+
+Github Username : DACZuniga
+
+Email : Danielcruz.34776@gmail.com
+
+Profile URL : https://github.com/Daczuniga
+
 
 REFERENCES :
 
